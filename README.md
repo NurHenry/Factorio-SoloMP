@@ -91,7 +91,7 @@ To set a spawn point for a force (so that when a player dies, they reappear at t
 
 ---
 
-## Configuring Biter (Enemy) Behavior
+## Configuring Biter (Enemy) Behavior (Optional)
 
 ### Making Biters Peaceful
 
